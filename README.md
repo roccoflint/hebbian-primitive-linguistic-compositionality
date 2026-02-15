@@ -1,6 +1,6 @@
 # Primitive Linguistic Compositionality in a Hebbian Neural Network
 
-This repository contains the code required to replicate the experiments in the titular paper.
+This repository contains the code required to replicate the experiments in the titular paper published in [Proceedings of the Annual Meeting of the Cognitive Science Society](https://escholarship.org/uc/cognitivesciencesociety).
 
 ## Warning
 
